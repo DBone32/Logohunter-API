@@ -1,0 +1,6 @@
+
+*.hdf5
+*.h5
+*.pyc
+*.xml
+src/inception_logo_features_200_trunc2.hdf5
